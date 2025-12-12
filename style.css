@@ -1,5 +1,79 @@
-h1{
+.logo{
+    width: 140px;
+   margin-left: 30px;
+   margin: auto;
+}
+.contact{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 5.7px;
+    border: none;
+    margin-left: 10px;
+}
+.navbar{
+     background-color: #FFFFFF; 
+ 
+}
+.all{
+    background-color: #7C4EE4;
+    color: white;
+    border-radius: 5px;
+   border: none;
+}
+.post{
+    background-color: #7C4EE4;
+    color: #FFFFFF;
+}
+.march{
+    justify-content: center;
+    font-size: large;
+}
+.more{
+   color: #7C4EE4; 
+}
+.travel{
+    font-size: medium;
+}
+.rule{
     font-weight: bolder;
-    text-decoration: double;
-    text-transform: uppercase;
+}
+.ship{
+    border: none;
+}
+.footer{
+    background-color: #7C4EE4;
+    color: #FFFFFF;
+    justify-content: center;
+}
+.grt{
+    border: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media and screen only {(max-width:1200px )
+    
 }
